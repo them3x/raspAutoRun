@@ -9,7 +9,7 @@ fi
 
 
 apt update
-apt install iw wireless-tools ssh autossh wifite jq -y
+apt install iw wireless-tools ssh autossh screen wifite jq -y
 
 echo "
 [Unit]
