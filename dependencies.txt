@@ -1,0 +1,2 @@
+apt update
+apt install iw wireless-tools ssh autossh wifite jq -y
